@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mori</string>
+    <string name="facebook_app_id">5280313728716143</string>
+    <string name="fb_login_protocol_scheme">fb5280313728716143</string>
+    <string name="facebook_client_token">15b614b4616f9fcca2fe8407e5be4f24</string>
+</resources>

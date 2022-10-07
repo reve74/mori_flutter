@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "643746983568",
+    "project_id": "mori-394dd",
+    "storage_bucket": "mori-394dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643746983568:android:5d802a5bbcd3fc49e3f215",
+        "android_client_info": {
+          "package_name": "com.reve74.mori"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643746983568-7n4m6k6l5nmicuihfc7a5qu33cgdg57k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0GwjUY3f8CXwn5PFBwNfdsq-u4eVMytM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643746983568-7n4m6k6l5nmicuihfc7a5qu33cgdg57k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
