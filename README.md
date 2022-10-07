@@ -2,7 +2,9 @@
 [<img width="15%" src="https://user-images.githubusercontent.com/66717348/194500349-26b4edcf-ce66-473d-9344-dba05f4d1238.png"/>](https://play.google.com/store/apps/details?id=com.reve74.mori)
 ## [About]
 <img width="80%" src="https://user-images.githubusercontent.com/66717348/194515523-8271b177-336c-4636-b8b1-1117e7e709b3.png"/>
+
 모두의 영화 리뷰 모리!!
+
 
 [기능]
 - 로그인 기능
