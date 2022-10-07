@@ -2,7 +2,7 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_storage/firebase_storage.dart';
 
-const API_KEY = 'd083f85e423a0cc4384057e135bea9ae';
+const API_KEY = 'API_KEY';
 const LANGUAGE = 'ko-KR';
 
 const Poster = 'https://image.tmdb.org/t/p/w500/';
